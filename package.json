@@ -1,0 +1,19 @@
+{
+  "name": "@soul0nsky/ajs-library-create",
+  "version": "1.0.0",
+  "description": "___",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soul0nsky/AJS-library-create.git"
+  },
+  "author": "ms",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/soul0nsky/AJS-library-create/issues"
+  },
+  "homepage": "https://github.com/soul0nsky/AJS-library-create#readme"
+}
